@@ -2,8 +2,6 @@
 .div-1 {
         
       background:url(https://img.xatblog.net/image/n5qaOmPRtf.gif)top left;
-      -webkit-background-size: cover; 
-        -moz-background-size: cover; 
-        -o-background-size: cover; 
-        background-repeat: repeat-x;  
+   
+        background-repeat: repeat;  
     }
